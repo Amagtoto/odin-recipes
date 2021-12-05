@@ -1,0 +1,22 @@
+.header {
+  color: #d77a61;
+  background-color: #eff1f3;
+  font-size: 48px;
+  font-family: "Verdana", sans-serif;
+}
+
+#home-image {
+  height: auto;
+  width: 600px;
+}
+
+.list {
+  color: #223843;
+  background-color: #eff1f3;
+  font-size: 32px;
+}
+
+.head {
+  font-size: 48px;
+  font-family: "Verdana", sans-serif;
+}
